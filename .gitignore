@@ -1,0 +1,9 @@
+# Ignore large dataset files
+large_dataset.csv
+anonymized_data.csv
+
+# Ignore all split parts
+part_*
+
+# Ignore compressed files
+*.gz
