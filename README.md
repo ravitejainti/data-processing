@@ -43,6 +43,6 @@ create table and performed Anonymization using SHA-256 hashing algorithm.
 **SQL script attached - Anonymization.sql**
 and Exporting Anonymized Data in a final csv file named **anonymized_data.csv**
 
-
+Attaching the google drive link: https://drive.google.com/drive/folders/1tnv5quKsPEqH7pZsuEiPP-go8kLkg8sO?usp=sharing
  
 
